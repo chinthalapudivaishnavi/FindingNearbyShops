@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "744230608308",
+    "project_id": "shopsfinder-4a39c",
+    "storage_bucket": "shopsfinder-4a39c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744230608308:android:0c324e27d836c1e3ae26e1",
+        "android_client_info": {
+          "package_name": "com.example.shopsfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744230608308-e8hi52hfjmitrdmmqkb2o84npib51ncr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTjeoY0KvcmvSx8kfZCoFyDCpUewRdlY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744230608308-e8hi52hfjmitrdmmqkb2o84npib51ncr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

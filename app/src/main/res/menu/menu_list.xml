@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="Search"
+        android:id="@+id/search_menu_id">
+
+    </item>
+    <item
+        android:id="@+id/addshop_menu_id"
+        android:title="Add Shop"
+        android:icon="@drawable/ic_baseline_add_circle_outline_24"
+        ></item>
+<!--    <item-->
+<!--        android:icon="@drawable/ic_baseline_bookmark_border_24"-->
+<!--        android:title="Save"-->
+<!--        android:id="@+id/save_menu_id">-->
+
+<!--    </item>-->
+    <item android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="Account"
+        android:id="@+id/account_menu_id"
+        ></item>
+
+</menu>
