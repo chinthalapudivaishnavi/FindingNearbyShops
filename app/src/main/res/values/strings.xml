@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">shopsfinder</string>
-    <string name="google_map_key"></string>
+    <string name="google_map_key">
+        AIzaSyDZr9lC4IS9gxn5ucWqK16B-WIIHnHBLVU
+    </string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
